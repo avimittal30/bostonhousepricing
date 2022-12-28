@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bostonhousepricingapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1540D60A61E4E2481F23B77B2C72705 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_136DA3316B4448A7A0C0D8D2226EC998 }}
